@@ -51,6 +51,7 @@
 </div>
 
 ## Meet the Devs
-- **Creator:** [Zo5yn](https://github.com/Zo5yn)
+- **Creator:** [Zosyn](https://github.com/vexa-au)
 - **Lead Developer:** [ReactorCoreDev](https://github.com/ReactorCoreDev)
+- +2 Anonymous people
 ---
