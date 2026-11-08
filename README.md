@@ -31,12 +31,14 @@
 
 <div align="center">
   <br>
-  [![License](https://img.shields.io/github/license/ZyvenAU/Zyven?style=flat-square)](LICENSE)
-  [![Builds](https://img.shields.io/github/actions/workflow/status/ZyvenAU/Zyven/ci-release.yml?branch=main&style=flat-square&label=builds)](https://github.com/ZyvenAU/Zyven/actions)
-  [![Downloads](https://img.shields.io/github/downloads/ZyvenAU/Zyven/latest/total?style=flat-square&color=981bfe)](https://github.com/ZyvenAU/Zyven/releases/latest)
-  [![Latest](https://img.shields.io/github/v/release/ZyvenAU/Zyven?style=flat-square&color=7a39fb)](https://github.com/ZyvenAU/Zyven/releases/latest)
-  [![Discord](https://img.shields.io/discord/1529860217687506985?style=flat-square&logo=discord&logoColor=white&label=discord&color=4d3dff)](https://discord.gg/wHJaqJM3VU)
-  [![Stars](https://img.shields.io/github/stars/ZyvenAU/Zyven?style=flat-square&color=dd9900)](https://github.com/ZyvenAU/Zyven/stargazers)
+
+  [![License](https://img.shields.io/github/license/vex-au/vexa?style=flat-square)](LICENSE)
+  [![Builds](https://img.shields.io/github/actions/workflow/status/vex-au/vexa/ci-release.yml?branch=main&style=flat-square&label=builds)](https://github.com/vex-au/vexa/actions)
+  [![Downloads](https://img.shields.io/github/downloads/vex-au/vexa/latest/total?style=flat-square&color=981bfe)](https://github.com/vex-au/vexa/releases/latest)
+  [![Latest](https://img.shields.io/github/v/release/vex-au/vexa?style=flat-square&color=7a39fb)](https://github.com/vex-au/vexa/releases/latest)
+  [![Discord](https://img.shields.io/discord/1529860217687506985?style=flat-square&logo=discord&logoColor=white&label=discord&color=4d3dff)](https://discord.gg/j6eb9TM5X5)
+  [![Stars](https://img.shields.io/github/stars/vex-au/vexa?style=flat-square&color=dd9900)](https://github.com/vex-au/vexa/stargazers)
+
 </div>
 
 ---
