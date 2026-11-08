@@ -24,7 +24,8 @@
 > 
 > After providing the necessary code for a pull request, We will decide whether to add it to Vexa or not. If it is added, you will be credited (if you'd like).
 >
-> https://discord.gg/j6eb9TM5X5
+> Discord: https://discord.gg/j6eb9TM5X5
+> 
 > Download: https://www.vexa-au.workers.dev
 
 ---
