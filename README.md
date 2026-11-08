@@ -23,10 +23,8 @@
 > If you want to make a bug report, then create an issue and add [BUG REPORT] at the start of the title.
 > 
 > After providing the necessary code for a pull request, We will decide whether to add it to Vexa or not. If it is added, you will be credited (if you'd like).
----
 >
-> The Discord server invite link is: https://discord.gg/j6eb9TM5X5
-> 
+> https://discord.gg/j6eb9TM5X5
 > Download: https://www.vexa-au.workers.dev
 
 ---
