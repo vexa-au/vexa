@@ -1,23 +1,33 @@
-# Zyven
+# Vexa
 
 <p align="left">
-  <img src="https://www.zyvenau.workers.dev/files/Logo.png" alt="Zyven Logo" width="120">
+  <img src="https://www.vexa-au.workers.dev/files/Logo.png" alt="Vexa Logo" width="120">
 </p>
 
 > [!CAUTION]
-> The only official place to download Zyven is this GitHub repository. Any other websites offering downloads are not affiliated with us.
+> The only official place to download Vexa is this GitHub repository. Any other websites offering downloads are not affiliated with us.
 >
-> By downloading this software, having this software, or using this software, you agree to our [License](https://github.com/ZyvenAU/Zyven/blob/main/LICENSE).
+> By downloading this software, having this software, or using this software, you agree to our [License](https://github.com/VexaAU/Vexa/blob/main/LICENSE).
 ---
 
 > [!NOTE]
-> Zyven is an **advanced utility and hack menu** for *Among Us*, powered by **BepInEx**.
+> Vexa is intended **for educational, experimental, and personal use only**.
+> This is an **advanced utility** for *Among Us*, powered by **BepInEx**.
 > It allows players to modify gameplay, unlock features, and experiment
 > with the game’s mechanics through a feature-rich menu.
+> 
+> If you want to make a pull request, then create an issue and add [PULL REQUEST] at the start of the title.
+> 
+> If you want to make a suggestion, then create an issue and add [SUGGESTION] at the start of the title.
+> 
+> If you want to make a bug report, then create an issue and add [BUG REPORT] at the start of the title.
+> 
+> After providing the necessary code for a pull request, We will decide whether to add it to Vexa or not. If it is added, you will be credited (if you'd like).
+---
 >
-> The Discord server invite link is: https://discord.gg/wHJaqJM3VU
->
-> Download at https://www.zyvenau.workers.dev
+> The Discord server invite link is: https://discord.gg/j6eb9TM5X5
+> 
+> Download: https://www.vexa-au.workers.dev
 
 ---
 
@@ -41,29 +51,7 @@
 
 </div>
 
----
-
-## About Zyven
-
-Zyven is a **utility menu** for *Among Us*, powered by **BepInEx**. It allows players to unlock, modify, and experiment with gameplay through an interface offering complete control over the game’s environment, roles, and mechanics.
-
-> [!NOTE]
-> Zyven is intended **for educational, experimental, and personal use only**.
-> 
-> If you want to make a pull request, then create an issue and add [PULL REQUEST] at the start of the title.
-> 
-> If you want to make a suggestion, then create an issue and add [SUGGESTION] at the start of the title.
-> 
-> If you want to make a bug report, then create an issue and add [BUG REPORT] at the start of the title.
-> 
-> After providing the necessary code for a pull request, I will decide whether to add it to Zyven or not. If it is added, you will be credited (if you'd like).
----
-
-## Credits
+## Meet the Devs
 - **Creator:** [Zo5yn](https://github.com/Zo5yn)
-- **Old Creator:** [ReactorCoreDev](https://github.com/ReactorCoreDev)
-- **Framework:** [BepInEx](https://github.com/BepInEx/BepInEx)
-- **We used suggestions/pull requests from:** [MalumMenu](https://github.com/scp222thj/MalumMenu)
-- **(2024) Orginal codebase:** [MalumMenu](https://github.com/scp222thj/MalumMenu)
-- **AI was used for some code that we could'nt get working.**
+- **Lead Developer:** [ReactorCoreDev](https://github.com/ReactorCoreDev)
 ---
